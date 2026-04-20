@@ -1,0 +1,11 @@
+update links :
+
+GitHub profile: https://github.com/ashishUpa2004
+
+linkedIn profile: www.linkedin.com/in/ashish-upadhyay-a60b41292
+
+Brain tumor detection system project link: https://github.com/ashishUpa2004/brain-tumor-detection-system
+
+Messenger Cht App link: https://github.com/ashishUpa2004/Chat-App
+
+Weather app : https://github.com/ashishUpa2004/WeatherApp
