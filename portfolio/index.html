@@ -46,6 +46,13 @@
     .nav-links { display: flex; gap: 2rem; list-style: none; }
     .nav-links a { color: var(--muted); text-decoration: none; font-size: 0.9rem; transition: color 0.2s; }
     .nav-links a:hover, .nav-links a.active { color: var(--accent); }
+    .nav-resume {
+      padding: 0.4rem 1rem; border-radius: 6px; font-size: 0.85rem; font-weight: 500;
+      background: var(--accent); color: #fff; text-decoration: none;
+      transition: background 0.2s, transform 0.15s;
+      white-space: nowrap;
+    }
+    .nav-resume:hover { background: #6a58e0; transform: translateY(-1px); }
 
     /* SECTIONS */
     section { padding: 5rem 2rem; max-width: 900px; margin: 0 auto; }
@@ -240,6 +247,7 @@
       <li><a href="#education">Education</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
+    <a href="Ashish_resume_2.pdf" download class="nav-resume">Download Resume</a>
   </nav>
 
   <!-- HERO -->
